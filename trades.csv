@@ -1,0 +1,3 @@
+Pair,Side,Trade Time,1D Trend,1H Trend,15m Trend,HTF zone Mitigation,Liquidation,IFC,ChoCh/Flip,PRO TREND/Orderflow,50% mitigation,V-shape reaction,Liquidity to target,Not from opposite zone,Corrective pullback,Combined liquidation,Result,Balance,Notes
+EUR/USD,buy,23:43:00,Bullish,Bullish,Bullish,True,True,True,True,True,True,True,False,True,True,False,500,10500,
+EUR/USD,buy,23:43:00,Bullish,Bullish,Bullish,True,True,True,True,True,True,True,False,True,True,True,100,10600,
